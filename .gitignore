@@ -1,0 +1,9 @@
+*.o
+*.exe
+*.aux
+*.bbl
+*.blg
+*.txt
+*.out
+*.pdf
+*.synctex
